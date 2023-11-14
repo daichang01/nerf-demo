@@ -1,7 +1,7 @@
-# read-nerf-pytorch
+# nerf-demo
 
 
 原始仓库: https://github.com/yenchenlin/nerf-pytorch
-nerf团队的tf实现: https://github.com/bmild/nerf
+进行了该demo的注释和理解
 
 
